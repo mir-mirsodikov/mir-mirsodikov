@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mir-mirsodikov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mir-mirsodikov&count_private=true)
