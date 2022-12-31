@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ### Bio
 
 - :office: Working at StaffWise as a full stack developer
-- 🔭 I’m currently working on a [real time full stack web application](https://github.com/Hermes-Chat-App)
-- 🌱 I’m currently learning Go and Elixir
+- 🔭 I’m currently working on a [real time, full stack, chat web application](https://github.com/Hermes-Chat-App)
+- :weight_lifting: Working on a mobile application for gym goers
+- 🌱 Learning Go and Elixir
 - :school_satchel: Currently studying Computer Science at Wichita State University, graduating in May 2023
 - 📫 Learn more about me and my projects in my [portfolio](https://mmir.dev)
 
