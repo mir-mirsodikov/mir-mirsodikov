@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mir-mirsodikov&count_private=true)
+![Mirmukhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mir-mirsodikov&count_private=true&theme=tokyonight)
