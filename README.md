@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, World 👋
 
-I am a full stack developer working at StaffWise and studying Computer Science at Wichita State University.
+I am a full stack developer working at StaffWise and studying Computer Science at Wichita State University.  
 
 <!--
 **mir-mirsodikov/mir-mirsodikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
